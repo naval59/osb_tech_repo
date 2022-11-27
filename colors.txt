@@ -16,4 +16,4 @@ charcoal
 indigo
 goldenrod
 avocado
-oragne
+orange
