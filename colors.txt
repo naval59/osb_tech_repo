@@ -1,5 +1,7 @@
+purple
 maroon
 nectarine
+navy
 mustard
 sky
 lime
@@ -8,11 +10,10 @@ chocolate
 black
 gray
 white
-silver
 gold
 iron
 charcoal
 indigo
-navy
 goldenrod
 avocado
+oragne
