@@ -1,10 +1,16 @@
 maroon
 orange
 yellow
-green
+light green
 blue
 violet
-brown
+dark brown
 black
 gray
 white
+silver
+gold
+iron
+charcoal
+indigo
+navy
